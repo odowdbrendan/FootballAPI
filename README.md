@@ -1,5 +1,5 @@
 # FootballAPI
-This job uses the Football API and node.js to load a fixture list of the date provided by the user.
+This job uses the Football API and node.js to load a soccer fixture list of the date provided by the user.
 
 To run the job in the brower: 
 1. npm install
