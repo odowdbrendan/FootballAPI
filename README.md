@@ -7,3 +7,6 @@ To run the job in the brower:
 3. npm install unirest
 4. browserify main.js -o bundle.js
 5. Open in index.html in browser.
+
+
+A bundle.js is automatically created - you shouldn't make changes to this file.
